@@ -1,0 +1,22 @@
+{
+        "ListAlumnos":[
+        {
+            "nombre": "Abril sepu",
+            "dni": "332342"
+        },
+        {
+            "nombre": "Santi var",
+            "dni" : "332352"
+        },
+        {
+            "nombre": "May zar",
+            "dni": "231342"
+        },
+        {
+            "nombre": "Lu car",
+            "dni": "32412431"
+        }
+    
+
+    ]
+}

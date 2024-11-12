@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "Estudiante": "Abril Sepulveda",
+    "Materia": "Analisis Matemático",
+    "Nota": 10,
+    "Fecha de Evaluación": "1/11/2024",
+    "Tipo de Evaluación": "examen, trabajo práctico y    participación",
+    "Observaciones": "Muy buena estudiante",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "Estudiante": "Santiago Vargas",
+    "Materia": "Lengua",
+    "Nota": 8,
+    "Fecha de Evaluación": "1/11/2024",
+    "Tipo de Evaluación": "examen, trabajo práctico y participación",
+    "Observaciones": "Muy buen estudiante",
+    "activo": false
+  }
+]

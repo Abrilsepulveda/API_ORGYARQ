@@ -1,0 +1,20 @@
+[
+  {
+    "id": 123,
+    "nombre": "Juan",
+    "apellido": "Ruiz",
+    "Correo": "juan@gmail.com",
+    "telefono": 29945678934,
+    "materias": "Matemática y física",
+    "activo": true
+  },
+  {
+    "id": 13,
+    "nombre": "May",
+    "apellido": "Zar",
+    "Correo": "may@gmail.com",
+    "telefono": 299444333,
+    "materias": "Lengua",
+    "activo": false
+  }
+]

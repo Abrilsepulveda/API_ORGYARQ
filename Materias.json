@@ -1,0 +1,22 @@
+[
+  {
+    "id": 123,
+    "Nombre de la materia": "Analisis Matemático",
+    "Descripción": "Funciones, polinomios y ecuaciones",
+    "Profesor": "Juan Ruiz",
+    "Año Académico": "4°",
+    "Aula Asignada": "4° 2da",
+    "Estudiantes Inscritos": "Abril Sepulveda, Cris Cantero",
+    "activo": false
+  },
+  {
+    "id": 3,
+    "Nombre de la materia": "Lengua",
+    "Descripción": "Análisis de oraciones, comprension de textos",
+    "Profesora": "May Zar",
+    "Año Académico": "2°",
+    "Aula Asignada": "2° 2da",
+    "Estudiantes Inscritos": "Santiago Vargas",
+    "activo": true
+  }
+]

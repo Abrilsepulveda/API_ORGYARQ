@@ -1,0 +1,32 @@
+[
+  {
+    "id": 34566789,
+    "Nombre": "Abril",
+    "Apellido": "Sepulveda",
+    "Matrícula": 234567,
+    "FechaNacimiento": "15/11/05",
+    "Correo": "abril@gmail.com",
+    "Telefono": 299678954,
+    "activo": false
+  },
+  {
+    "id": 12,
+    "Nombre": "Santiago",
+    "Apellido": "Vargas",
+    "Matrícula": 2345,
+    "FechaNacimiento": "1/10/2005",
+    "Correo": "santi@gmail.com",
+    "Telefono": 299009988,
+    "activo": false
+  },
+  {
+    "id": 123,
+    "Nombre": "Santiago",
+    "Apellido": "Vargas",
+    "Matrícula": 2345,
+    "FechaNacimiento": "1/10/2005",
+    "Correo": "santi@gmail.com",
+    "Telefono": 299009988,
+    "activo": false
+  }
+]

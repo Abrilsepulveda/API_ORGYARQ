@@ -1,0 +1,18 @@
+[
+  {
+    "id": 12,
+    "estudiante": "April Sepul",
+    "calificaciones": "Analisis Matematico 10, Física 6",
+    "promedio General": 8,
+    "observaciones": "muy buena en matematica y muy mala en fisica",
+    "activo": false
+  },
+  {
+    "id": 123,
+    "estudiante": "Santiago Vargas",
+    "calificaciones": "Lengua 8 y Literatura 9",
+    "promedio General": 8,
+    "observaciones": "muy buen estudiante",
+    "activo": true
+  }
+]
